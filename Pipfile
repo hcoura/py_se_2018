@@ -1,0 +1,27 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+
+jupyterlab = "*"
+parsel = "*"
+requests = "*"
+"bs4" = "*"
+requests-html = "*"
+scrapy = "*"
+rise = "*"
+"autopep8" = "*"
+"pep8" = "*"
+
+
+[dev-packages]
+
+
+
+[requires]
+
+python_version = "3.6"
